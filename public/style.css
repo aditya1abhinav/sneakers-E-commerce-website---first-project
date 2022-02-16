@@ -651,6 +651,19 @@ b {
     /* background-color: whitesmoke; */
   }
 
+  .footerRightMenu1 {
+    margin-top: 20px;
+    display: contents;
+    margin-bottom: 20px;
+  }
+
+  .fIcons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+
   .payment {
     width: 80%;
     padding: 20px;
